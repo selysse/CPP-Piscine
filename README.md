@@ -15,8 +15,8 @@ My repositories for the 21 (42) schools "CPP-Piscine" project
 <details>
 <summary><b>Module00</b></summary>
 
-* [tutorial](https://metanit.com/cpp/tutorial/1.1.php)
-* [namespace](https://en.cppreference.com/w/cpp/language/namespace)
+* [Tutorial](https://metanit.com/cpp/tutorial/1.1.php)
+* [Namespace](https://en.cppreference.com/w/cpp/language/namespace)
 
 </details>
 
@@ -55,6 +55,7 @@ My repositories for the 21 (42) schools "CPP-Piscine" project
 
 <details>
 <summary><b>Module05</b></summary>
+
 * [Exceptions](https://en.cppreference.com/w/cpp/error/exception)
 * [Cpp-Subclass](https://www.codesdope.com/cpp-subclass/)
 
