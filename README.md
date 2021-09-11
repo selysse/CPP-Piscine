@@ -6,7 +6,7 @@
 
 My repositories for the 21 (42) schools "CPP-Piscine" project
 
-![GitHub Logo](/png/cpp.png)
+![GitHub Logo](/png/cpp.jpg)
 
 ## A project to learn a new language, in this case, is C++
 
@@ -14,24 +14,24 @@ My repositories for the 21 (42) schools "CPP-Piscine" project
 
 <details>
 <summary><b>Module00</b></summary>
-[tutorial](https://metanit.com/cpp/tutorial/1.1.php)
-[namespace](https://en.cppreference.com/w/cpp/language/namespace)
+*[tutorial](https://metanit.com/cpp/tutorial/1.1.php)
+*[namespace](https://en.cppreference.com/w/cpp/language/namespace)
 
 </details>
 
 <details>
 <summary><b>Module01</b></summary>
-[Dynamic memory allocation](https://www.cplusplus.com/doc/tutorial/dynamic/)
-[Reference](https://isocpp.org/wiki/faq/references)
-[Pointers to members](https://www.ibm.com/docs/en/i/7.1?topic=only-pointers-members-c)
+*[Dynamic memory allocation](https://www.cplusplus.com/doc/tutorial/dynamic/)
+*[Reference](https://isocpp.org/wiki/faq/references)
+*[Pointers to members](https://www.ibm.com/docs/en/i/7.1?topic=only-pointers-members-c)
 
 </details>
 
 <details>
 <summary><b>Module02</b></summary>
-[Operators overloading](https://en.cppreference.com/w/cpp/language/operators)
-[Polymorphism](https://www.tutorialspoint.com/cplusplus/cpp_polymorphism.htm)
-[Canonical form](https://stackoverflow.com/questions/873216/canonical-form-of-operator-for-classes)
+*[Operators overloading](https://en.cppreference.com/w/cpp/language/operators)
+*[Polymorphism](https://www.tutorialspoint.com/cplusplus/cpp_polymorphism.htm)
+*[Canonical form](https://stackoverflow.com/questions/873216/canonical-form-of-operator-for-classes)
 
 </details>
 
